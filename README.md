@@ -3,7 +3,7 @@ This repository contains the code and datasets for COSC2669 Individual Task 2 (P
 
 ## Files
 
-### `Individual_Task1_Part1_2_1_3.ipynb`
+### `Individual_Task2_Part2.ipynb`
 Jupyter Notebook containing all code for learning curve and potential bias analysis.
 
 ### `default of credit card clients.xls`
